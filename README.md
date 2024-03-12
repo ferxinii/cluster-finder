@@ -9,9 +9,10 @@ In this context, a cluster is defined as a subset of points where the distance b
 - *clusters*: MX1 cell array, with each cluster, each cluster being an array with the index of the points that make it up. M is the total number of clusters.
 - *cluster_id*: An NX1 array mapping each point to the cluster index it belongs to.
 
-<p align="center">
-<img src="./example.png" alt="Example 1" width="600" height="auto" />
-</p>
-
 ## Prototype:
 [clusters, cluster_id] = cluster_finder(points, threshold);
+
+
+<p align="center">
+<img src="./example.png" alt="Example 1" width="500" height="auto" />
+</p>
