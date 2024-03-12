@@ -1,4 +1,4 @@
-# Cluster finder
+# Cluster finder 🔍
 A cluster is defined as a subset of points where the distance between two neighboring points is less than a given threshold.
 
 **INPUT:** 
