@@ -1,5 +1,5 @@
 # Cluster finder 🔍
-A cluster is defined as a subset of points where the distance between two neighboring points is less than a given threshold.
+In this context, a cluster is defined as a subset of points where the distance between two neighboring points is less than a given threshold.
 
 **INPUT:** 
 - *points*: Set of N points in 3D space. NX3 array.
