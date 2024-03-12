@@ -1,5 +1,5 @@
 # Cluster finder 🔍
-In this context, a cluster is defined as a subset of points where the distance between two neighboring points is less than a given threshold. It is though for 3D space, but might be easily tuned up (if it does not work already) for higher dimensions using euclidean distance.
+In this context, a cluster is defined as a subset of points where the distance between two neighboring points is less than a given threshold. It is though for 3D space, but might be easily tuned up (if it does not work already) for higher dimensions using euclidean distance. I suspect there might be a more efficient implementation.
 
 **INPUT:** 
 - *points*: Set of N points in 3D space. NX3 array.
